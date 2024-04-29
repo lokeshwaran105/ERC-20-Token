@@ -17,7 +17,7 @@ To install and set up the project locally, follow these steps:
 ### Clone the repository:
 git clone https://github.com/lokeshwaran105/ERC-20-Token
 ### Navigate to the project directory:
-cd MyERC20Token
+cd ERC-20-Token
 ### Install dependencies:
 npm install
 
