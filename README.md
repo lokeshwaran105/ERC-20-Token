@@ -15,7 +15,7 @@ The contract inherits from the Ownable contract, providing functionality for man
 To install and set up the project locally, follow these steps:
 
 ### Clone the repository:
-git clone https://github.com/yourusername/MyERC20Token.git
+git clone https://github.com/lokeshwaran105/ERC-20-Token
 ### Navigate to the project directory:
 cd MyERC20Token
 ### Install dependencies:
